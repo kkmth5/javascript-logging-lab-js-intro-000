@@ -1,1 +1,1 @@
-console.warn("imcomplete code")
+console.warn("code imcomplete")
