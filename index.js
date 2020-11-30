@@ -1,3 +1,3 @@
 console.error("Halp!")
-
-console.warn("Help")
+console.log("I would be a logger")
+console.warn("code incomplete")
